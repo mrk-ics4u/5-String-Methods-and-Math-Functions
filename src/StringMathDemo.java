@@ -10,12 +10,12 @@ public class StringMathDemo {
 
     public static void main(String[] args) {
         // below we are calling methods (functions) that are defined later in this file.
-        concatenationGotchas();
-        stringMethodsBasics();
+        //concatenationGotchas();
+        //stringMethodsBasics();
         comparingStrings();
-        caseAndSearching();
-        mathClassBasics();
-        randomNumbers();
+        //caseAndSearching();
+        //mathClassBasics();
+        //randomNumbers();
     }
 
     // method to demonstrate the + operator mixing strings and numbers

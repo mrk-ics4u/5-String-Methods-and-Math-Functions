@@ -175,8 +175,7 @@ Then work on the exercise in `PlayerProfile.java`.
 
 ### ICS 4U
 
-Nothing is assessed directly from this lesson. Using existing subprograms such as `substring`, `abs`, and `random` was already assessed in ICS3U (A3.1, Subprograms, whose own examples name exactly these three); this lesson is the Java syntax for that skill. The `equals`/`compareTo` comparison content feeds ICS4U's own A1.3 (Data Types and Expressions: non-numeric comparisons), Strand A: Programming Concepts and Skills.
-
+Nothing is assessed directly from this lesson.
 ### AP Expectations
 
 The following are expectations of the AP exam and will show up on the final exam:
